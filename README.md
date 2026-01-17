@@ -22,7 +22,8 @@ A modern, responsive task management application built with React.js. Manage you
 ## 🎨 Screenshots
 
 ### Desktop View
-![Screenshot_17-1-2026_211856_localhost](https://github.com/user-attachments/assets/1c1038ad-2214-4ab7-97c3-b485a63aaa51)
+![Screenshot_17-1-2026_212828_localhost](https://github.com/user-attachments/assets/a3c491f8-c567-4526-9d88-5d04d69a1773)
+
 
 
 ### Task Editing Flow
