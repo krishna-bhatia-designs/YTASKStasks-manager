@@ -22,16 +22,20 @@ A modern, responsive task management application built with React.js. Manage you
 ## 🎨 Screenshots
 
 ### Desktop View
-![Desktop View](./screenshots/desktop.png)
+![Screenshot_17-1-2026_211856_localhost](https://github.com/user-attachments/assets/1c1038ad-2214-4ab7-97c3-b485a63aaa51)
+
 
 ### Mobile View
-![Mobile View](./screenshots/mobile.png)
+![Mobile View](<img width="141" height="301" alt="image" src="https://github.com/user-attachments/assets/711d3577-f3b5-4c74-b8f5-e82ca736bbc3" />
+)
 
 ### Task Editing Flow
-![Edit Flow](./screenshots/edit-flow.png)
+![Edit Flow](<img width="1331" height="721" alt="image" src="https://github.com/user-attachments/assets/5bed6c4d-b73f-40d0-a606-e1432c7c9d60" />
+)
 
 ### Empty State & Completed Tasks
-![Empty & Completed](./screenshots/empty-completed.png)
+![Empty & Completed](<img width="1329" height="622" alt="image" src="https://github.com/user-attachments/assets/e45a6651-3b49-4d2d-965a-ee5dc714db1f" />
+)
 
 ## 🚀 Quick Start
 
